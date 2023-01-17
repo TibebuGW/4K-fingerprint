@@ -3,18 +3,24 @@
 This project is made at the Things Department of 4K labs. It implements and Enroll and Identify features where lab members enroll into the system using the Futronic Sensor.
 They then can regularly use the identify feature to register their check in checkout times. The attendance system registers the check in checkout times and stores them on PostgreSQL database we created.
 
-Register Page
-![alt text](https://drive.google.com/file/d/1EZZHLl0-aajOLmZnHfwa00gpbNkkBDo1/view?usp=share_link)
+# Register Page
 
 
-Enroll Page
+
+![Register](https://user-images.githubusercontent.com/73777766/212986344-5ea43e7f-fc76-4f99-b05a-aa8de2a07cae.png)
+
+
+
+
+# Enroll Page
 
 
 
 ![Enroll](https://user-images.githubusercontent.com/73777766/212985191-01ae0e61-100e-4d08-a50a-d97d4f2d428c.png)
 
 
-Identify Page
+# Identify Page
+
 
 
 ![Identify](https://user-images.githubusercontent.com/73777766/212986076-28eef261-71aa-4931-8e88-13d494f32de7.png)
