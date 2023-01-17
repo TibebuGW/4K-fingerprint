@@ -8,8 +8,13 @@ Register Page
 
 
 Enroll Page
+
+
+
 ![Enroll](https://user-images.githubusercontent.com/73777766/212985191-01ae0e61-100e-4d08-a50a-d97d4f2d428c.png)
 
 
 Identify Page
-![alt text](https://drive.google.com/file/d/1QgfJwwykoaRQll9p41GViTQyISrlE7jq/view?usp=share_link)
+
+
+![Identify](https://user-images.githubusercontent.com/73777766/212986076-28eef261-71aa-4931-8e88-13d494f32de7.png)
